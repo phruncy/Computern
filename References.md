@@ -33,7 +33,7 @@ Darling argues that anthropomorphic framing might enhance the functionality of t
 
 Darling, Kate: https://www.iberdrola.com/shapes-en/kate-darling-robotics-artificial-intelligence-problems
 
-Jehle, Christoph, 
+**Jehle, Christoph,** 
 Die Pflegerobbe Paro - ein unmoralisches Angebot? Sind Zuwendungsroboter als Pflegehilfe für Demenzpatienten vertretbar? (Dezember 28, 2014), Heise Online, Available at https://www.heise.de/tp/features/Die-Pflegerobbe-Paro-ein-unmoralisches-Angebot-3368674.html, accessed 10th January 2022
 
 - Robots as the more ethical alternative to "real pets" for especially children: *Children are projecting somehting into pets that they are not anyways*, so robots can provide what a child wants from a pet without actually putting a living being at stake. Sma argumentaion for dementia patients
@@ -42,6 +42,8 @@ Die Pflegerobbe Paro - ein unmoralisches Angebot? Sind Zuwendungsroboter als Pfl
 **Paepcke, S. and Takayama, L.** *Judging a bot by its cover: An experiment on expectation setting for personal robots,* 2010 5th ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2010, pp. 45-52, doi: 10.1109/HRI.2010.5453268.
 
 - People percieve robots as more competent when their expectations are lowered.
+
+---
 
 ### Slightly Offtopic: Machine ethics and legislation
 
