@@ -19,7 +19,7 @@ Darling argues that anthropomorphic framing might enhance the functionality of t
 - Reports that tolerance for malfunction is higher with Robots with lifelike qualities, even if it is just a name (-> because living beings make mistakes and we are subconsciously justifing them?). Darling argues that these properites might improve technology adoption and and literacy. 
 - Adoption yes, but what obout literacy? (Adoption: using it, literacy: understanding whtas going on)
 
-- lifellike robots, *along with mechanisms of gameification* are prone to be emotionally manipulative
+- lifelike robots, *along with mechanisms of gameification* are prone to be emotionally manipulative
 - While this can be beneficial for come usecases, it certainly is also dangerous
 - *technological literacy would also include the ability to willingly give into this manipulation or don't. The Keyword is ***Willing*** Suspension of disbelief*.
 - 
