@@ -6,6 +6,6 @@ Lets's assume we turn on logs for the booting procecss of Mac Os, which is a per
 
  The question arises: who is talking here: the PC? Or some person at Apple that has had a long day too and went hme afterwards?
 
- ![Software Archeoogy](archeology.png)
+ ![Software Archeology](archeology.png)
 
 - Proposal for Apple: please include Shutdown-screenshot hardware in your stuff.
