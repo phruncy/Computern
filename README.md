@@ -1,4 +1,4 @@
-# Adbances in Computern
+# Advances in Computern
 A collection of all material related to the Computern master project.
 ## Introduction: Friend computer is watching you (but that's about it)
 When J.C.R. Licklider proposed his *man-computer-symbiosis* in 1960, the relationship he frames appears like it is straight out of a contemporaneous romantic novel: The human acts, the computer reacts accordingly, human and machine work in intimate togetherness towards their mutual goal. The human leads and the machine is the perfact understanding, reliable, forward-thinking partner. However, J.C.R. Lickerlider did not mention the situation in which the protagonist desperatly types random lines into their command shell, trying to fix their blank-screen-camrea-not-working problem two minutes before an important video conference (f*ckin sh*t it has always worked before wy don't you now you ****** – you get the gist). 
