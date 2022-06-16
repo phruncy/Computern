@@ -65,3 +65,7 @@ Darling, Kate: https://www.iberdrola.com/shapes-en/kate-darling-robotics-artific
 
 **Misselhorn, Catrin**, *Grundfragen der Maschinenethik* (2018). Reclam, Stuttgart
 - General introduction to machine ehtics with a nice glossary
+
+### Making machines do things they are not supposed to do
+
+- Borzyskowski, George (1995). The Hacker Demo Scene and its Cultural Artifacts. Curtin University of Technology, Perth. Online unter http://www.dvara.net/hk/demoscene.pdf
