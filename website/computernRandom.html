@@ -1,0 +1,49 @@
+<style type="text/css">
+    /*<![CDATA[*/
+        .computern-button {
+            margin: auto;
+            background-color:#ff007b;
+            -webkit-border-radius:11px;
+            -moz-border-radius:11px;
+            border-radius:11px;
+            border:3px solid #ff0088;
+            display:block;
+            cursor:pointer;
+            color:#ffffff;
+            font-family:Arial;
+            font-size:17px;
+            padding:16px 31px;
+            text-decoration:none;
+    }
+    .computern-button:hover {
+            background-color:#ff0091;
+    }
+    .computern-button:active {
+            position:relative;
+            top:1px;
+    }
+    /*]]>*/
+    </style><script type="text/javascript">
+    //<![CDATA[
+    
+        const pages = [
+            "archeology",
+            "genesis",
+            "abomination1",
+            "abomination2",
+            "abomination3",
+            "abomination4",
+            "computern1",
+            "computern2",
+            "computern3",
+            "computern4"
+        ];
+        const goToRandom = () => {
+            const value = Math.floor(Math.random() * pages.length);
+            const pagename = pages[value];
+            console.log("Random!");
+            window.location = `https://computern.jimdofree.com/${pagename}/`;
+        }
+    
+    //]]>
+    </script><button class="computern-button" onclick="goToRandom()">Computer away!</button>
