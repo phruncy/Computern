@@ -22,6 +22,7 @@ Reconstructed animation:
 ![Wot](wot.png)
 ![Train](train.png)
 ![Piano](piano.png)
-![Wink](wink.png)
+![Wink](wink.jpg)
+![Train](train02.png)
 
 
