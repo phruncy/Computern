@@ -27,5 +27,5 @@ https://this-museum-is-not-obsolete.com/
 ## POAQ (Perhaps occasionally asked questions)
 ## Is Computern even a word
 
-No, i made it up.
+No, i made it up. I is a german neologism; the verbalization of the term *Computer* suggests *using* a computer as an end in itself. This is frankly pointless – computers serve as medium to run programs that are being *used*. Thus it is in tune with the project's themes.
 
