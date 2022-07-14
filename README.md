@@ -1,6 +1,7 @@
 # Advances in Computern
 A collection of all material related to the Computern master project.
-## Introduction: Friend computer is watching you (but that's about it)
+## Introduction: In defense of the grey box.
+
 When J.C.R. Licklider proposed his *man-computer-symbiosis* in 1960, the relationship he frames appears like it is straight out of a contemporaneous romantic novel: The human acts, the computer reacts accordingly, human and machine work in intimate togetherness towards their mutual goal. The human leads and the machine is the perfect understanding, reliable, forward-thinking partner. However, J.C.R. Lickerlider did not mention the situation in which the protagonist desperatly types random lines into their command shell, trying to fix their blank-screen-camera-not-working problem two minutes before an important video conference (f*ckin sh*t it has always worked before why don't you now you ****** – you get the gist). 
 
 We interact with computers as media, using their functionality in the context of products or services. That is what makes them useful to us – but that usefullnes vanishes the moment that something goes wrong.
@@ -26,5 +27,5 @@ https://this-museum-is-not-obsolete.com/
 ## POAQ (Perhaps occasionally asked questions)
 ## Is Computern even a word
 
-No, i made it up.
+No, i made it up. I is a german neologism; the verbalization of the term *Computer* suggests *using* a computer as an end in itself. This is frankly pointless – computers serve as medium to run programs that are being *used*. Thus it is in tune with the project's themes.
 
